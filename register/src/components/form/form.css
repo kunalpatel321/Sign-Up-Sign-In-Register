@@ -1,0 +1,34 @@
+.new{
+    display: grid;
+    font-size: small;
+    width: 20%;
+    min-width: 60px;
+    
+}
+
+.fn{
+    padding-right: 83px;
+}
+.ln{
+    padding-right: 70px;
+}
+.pn{
+    padding-right: 51px;
+}
+
+.em{
+    padding-right: 105px;
+}
+
+.ps{
+    padding-right: 90px;
+}
+
+.cps{
+    padding-right: 15px;
+
+}
+
+.ff{
+    padding-left: 420px;
+}
